@@ -54,3 +54,12 @@ body {
     line-height: 1.2;
     letter-spacing: 0.8px;
   }
+
+ img{
+    max-width: 718px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+  }
